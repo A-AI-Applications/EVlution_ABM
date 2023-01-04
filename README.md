@@ -19,7 +19,9 @@ Repo for EVlution hackathon team, Capgemini Invent
 
 6. Using your preferred IDE, make sure you configure it to use the new environment (which will be called 'evlution_env' by default). 
 
-7. To extract the data from S3, you will need the aws_access_key and aws_secret_access_key. Please email safal.mukhia@capgemini.com to be provided with the required keys.
+7. By default, you should be able to run the app. Navigate to ```...\EVlution_ABM\EVs\Streamlit_app``` then run the following command:
+
+```streamlit run streamlit_tabs.py```
 
 #### Access to AWS Data Sources
 
